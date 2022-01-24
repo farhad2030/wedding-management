@@ -19,6 +19,12 @@ body {
 .special-card .new {
   transform: translate(10px, -10px);
 }
-footer {
-  height: 200px;
+
+footer .logo img {
+  height: 60px;
+  width: 200px;
+  border-radius: 60px;
+  margin: 5px;
+  padding: 5px;
+  border: 2px solid wheat;
 }
