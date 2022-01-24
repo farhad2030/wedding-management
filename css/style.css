@@ -10,3 +10,15 @@ body {
   height: 80vh;
   object-fit: cover;
 }
+.xrounded {
+  border-radius: 20px;
+}
+.special-card {
+  transform: translateY(-20px);
+}
+.special-card .new {
+  transform: translate(10px, -10px);
+}
+footer {
+  height: 200px;
+}
